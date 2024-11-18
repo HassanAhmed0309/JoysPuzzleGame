@@ -1,0 +1,16 @@
+# Made in Blockbench 3.1.1
+newmtl 0
+map_Kd black_concrete.png 
+newmtl 1
+map_Kd white_concrete.png 
+newmtl 2
+map_Kd white_concrete_powder.png 
+newmtl 3
+map_Kd clay.png 
+newmtl 4
+map_Kd light_gray_stained_glass.png 
+newmtl 5
+map_Kd gray_concrete.png 
+newmtl 6
+map_Kd light_gray_concrete.png 
+newmtl none

@@ -1,0 +1,325 @@
+fileFormatVersion: 2
+guid: ccbb3ca5900e4ab488c8dbcbe9a6ff92
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat
+    second: {fileID: 2100000, guid: 6715332740eca444e990162562cccbdc, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: british-soldier-1780-3d-model-fbx
+    second: {fileID: 2800000, guid: 8a366451aced7e547bc97d3c7ec4cb2a, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: mixamo.com
+      takeName: mixamo.com
+      internalID: -203655887218126122
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: British Soldier OBJ(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CINEMA_4D_Editor
+      parentName: British Soldier OBJ(Clone)
+      position: {x: -1.680638, y: 22.390173, z: 56.148933}
+      rotation: {x: -0.0020555595, y: -0.99432105, z: 0.10459263, w: -0.019541385}
+      scale: {x: 1, y: 1, z: 1}
+    - name: British_soldier_002
+      parentName: British Soldier OBJ(Clone)
+      position: {x: 5.092121e-32, y: -0.0000000016689297, z: -8.344655e-10}
+      rotation: {x: 0.00000033289513, y: 0.00000001448303, z: -4.82133e-15, w: 1}
+      scale: {x: 2.5400257, y: 2.5400257, z: 2.5400257}
+    - name: mixamorig:Hips
+      parentName: British Soldier OBJ(Clone)
+      position: {x: 0.00020411, y: 13.601219, z: 0.044097956}
+      rotation: {x: 0.00000016602152, y: 0.0000037274442, z: -0.00012114159, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightUpLeg
+      parentName: mixamorig:Hips
+      position: {x: 1.3498687, y: -0.8179674, z: -0.0586015}
+      rotation: {x: -0.00020820292, y: -0.0066638794, z: 0.99997723, w: -0.0010368472}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightLeg
+      parentName: mixamorig:RightUpLeg
+      position: {x: -7.1117934e-10, y: 6.24204, z: -0.000000010188355}
+      rotation: {x: -0.019356176, y: 0.000018219642, z: -0.0020240606, w: 0.9998106}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightFoot
+      parentName: mixamorig:RightLeg
+      position: {x: 1.2793855e-10, y: 5.210713, z: -0.0000000057856417}
+      rotation: {x: 0.5226818, y: -0.1266943, z: 0.08972039, w: 0.83827364}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightToeBase
+      parentName: mixamorig:RightFoot
+      position: {x: -0.000000012506695, y: 2.3224506, z: -0.000000087313325}
+      rotation: {x: 0.27049196, y: -0.08315095, z: 0.0234572, w: 0.95883775}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightToe_End
+      parentName: mixamorig:RightToeBase
+      position: {x: -0.000000013238603, y: 0.9540531, z: 0.0000000029819636}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftUpLeg
+      parentName: mixamorig:Hips
+      position: {x: -1.3498687, y: -0.8179674, z: -0.0622676}
+      rotation: {x: 0.00021590717, y: -0.00095580064, z: 0.9999992, w: 0.00079609227}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftLeg
+      parentName: mixamorig:LeftUpLeg
+      position: {x: 0.000000001557078, y: 6.2427664, z: -0.000000004168609}
+      rotation: {x: -0.03153702, y: -0.000029172917, z: 0.002029227, w: 0.9995006}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftFoot
+      parentName: mixamorig:LeftLeg
+      position: {x: -3.332512e-10, y: 5.214816, z: 0.0000000141620315}
+      rotation: {x: 0.52750635, y: 0.1261866, z: -0.08994328, w: 0.83529896}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftToeBase
+      parentName: mixamorig:LeftFoot
+      position: {x: -0.000000019204887, y: 2.3184087, z: -0.00000007013167}
+      rotation: {x: 0.27145016, y: 0.09003975, z: -0.025515689, w: 0.95789176}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftToe_End
+      parentName: mixamorig:LeftToeBase
+      position: {x: 0.000000011399074, y: 0.9390653, z: 0.000000003264954}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:Spine
+      parentName: mixamorig:Hips
+      position: {x: -0, y: 1.4723625, z: -0.22316405}
+      rotation: {x: -0.07514116, y: -0.0000128195115, z: 0.00012051905, w: 0.99717295}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:Spine1
+      parentName: mixamorig:Spine
+      position: {x: -0, y: 1.7373753, z: 0.000000010106669}
+      rotation: {x: 1.3877788e-17, y: -1.443713e-13, z: 6.6802965e-13, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:Spine2
+      parentName: mixamorig:Spine1
+      position: {x: -0, y: 1.9855717, z: 0.000000029429922}
+      rotation: {x: 1.3877788e-17, y: 0, z: 2.997671e-29, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightShoulder
+      parentName: mixamorig:Spine2
+      position: {x: 0.85304487, y: 1.9141531, z: -0.052373342}
+      rotation: {x: -0.5578972, y: -0.42285487, z: 0.59108883, w: -0.4006974}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightArm
+      parentName: mixamorig:RightShoulder
+      position: {x: -7.3372597e-10, y: 1.8564262, z: -0.0000000026766784}
+      rotation: {x: -0.17217559, y: 0.009959678, z: 0.028437909, w: 0.9846054}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightForeArm
+      parentName: mixamorig:RightArm
+      position: {x: -0.0000000034049883, y: 3.1472068, z: -3.253149e-10}
+      rotation: {x: -0.00000025756327, y: 0.0013733449, z: -0.00000028765078, w: 0.99999905}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightHand
+      parentName: mixamorig:RightForeArm
+      position: {x: -0.00000001970811, y: 3.7639759, z: 0.000000003554245}
+      rotation: {x: -0.0000003101953, y: 0.006780028, z: -0.00000000467835, w: 0.99997705}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightHandIndex1
+      parentName: mixamorig:RightHand
+      position: {x: -0.000000024447528, y: 2.2245257, z: -0.000000013622476}
+      rotation: {x: 0.0000003422453, y: -0.39753053, z: 0.00000012492511, w: 0.91758895}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightHandIndex2
+      parentName: mixamorig:RightHandIndex1
+      position: {x: 0.0000000052299676, y: 0.13739325, z: 0.0000000011863719}
+      rotation: {x: 0.24366029, y: -0.000000004996587, z: 0.15589032, w: 0.9572502}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightHandIndex3
+      parentName: mixamorig:RightHandIndex2
+      position: {x: 0.059495363, y: 0.16602314, z: -0.092957646}
+      rotation: {x: 0.2541335, y: -0.17053112, z: -0.14179815, w: 0.94139713}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightHandIndex4
+      parentName: mixamorig:RightHandIndex3
+      position: {x: -0.013154516, y: 0.04660101, z: -0.07971025}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:Neck
+      parentName: mixamorig:Spine2
+      position: {x: -0, y: 2.2337663, z: -0.00000008513457}
+      rotation: {x: 0.07514103, y: 2.5427312e-14, z: 2.2993432e-13, w: 0.99717295}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:Head
+      parentName: mixamorig:Neck
+      position: {x: -0, y: 0.9499855, z: 0.29872215}
+      rotation: {x: 0, y: 0, z: 1.0744559e-30, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:HeadTop_End
+      parentName: mixamorig:Head
+      position: {x: -0, y: 3.0893116, z: 0.9714313}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftShoulder
+      parentName: mixamorig:Spine2
+      position: {x: -0.85304487, y: 1.9129885, z: -0.04469008}
+      rotation: {x: 0.5607079, y: -0.42082042, z: 0.58893967, w: 0.40207818}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftArm
+      parentName: mixamorig:LeftShoulder
+      position: {x: 1.9305402e-10, y: 1.8564262, z: -0.0000000027644624}
+      rotation: {x: -0.17290542, y: -0.012416382, z: -0.023527246, w: 0.98457915}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftForeArm
+      parentName: mixamorig:LeftArm
+      position: {x: 0.000000004608851, y: 3.149789, z: -1.5515766e-10}
+      rotation: {x: 0.00000033974982, y: -0.0014413281, z: -0.00000048015085, w: 0.999999}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftHand
+      parentName: mixamorig:LeftForeArm
+      position: {x: -0.000000004131777, y: 3.7642186, z: -0.0000000018536959}
+      rotation: {x: 0.00000033744516, y: -0.007914936, z: -0.00000010413712, w: 0.9999687}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftHandIndex1
+      parentName: mixamorig:LeftHand
+      position: {x: 0.000000017032125, y: 2.1443172, z: -0.000000012192633}
+      rotation: {x: 0.00000023141074, y: -0.0109114, z: -0.00000019266399, w: 0.9999405}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftHandIndex2
+      parentName: mixamorig:LeftHandIndex1
+      position: {x: 0.000000006930601, y: 0.17898317, z: -7.7235995e-11}
+      rotation: {x: -0.050997663, y: 0.00000003755381, z: -0.18728393, w: 0.9809811}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftHandIndex3
+      parentName: mixamorig:LeftHandIndex2
+      position: {x: -0.08522463, y: 0.21436682, z: 0.023186943}
+      rotation: {x: -0.06373481, y: -0.058090452, z: 0.30277562, w: 0.9491524}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftHandIndex4
+      parentName: mixamorig:LeftHandIndex3
+      position: {x: 0.047146644, y: 0.17866082, z: 0.044191007}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: British_soldier_002
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

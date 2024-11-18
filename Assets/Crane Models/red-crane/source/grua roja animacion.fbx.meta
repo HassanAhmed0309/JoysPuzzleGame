@@ -1,0 +1,311 @@
+fileFormatVersion: 2
+guid: 5ac380350d334c14a9c29b0a6b03eef5
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: a2879acaa63064249805bc0c2c839b30, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert10
+    second: {fileID: 2100000, guid: 17ff2b68fb4894843b38bff1f346b364, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert13
+    second: {fileID: 2100000, guid: 76d6f0f7b5672354aab828b783920a7b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert14
+    second: {fileID: 2100000, guid: 8ff0058bfd0a41647a5f49b1bee94143, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert15
+    second: {fileID: 2100000, guid: 5b2d8df2315089f4e881673e6e34a33a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert16
+    second: {fileID: 2100000, guid: 5f86cd4630b360e4fa2ee04c7617025b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert17
+    second: {fileID: 2100000, guid: f1a53a7b9a75781429a61170fa9d738a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert18
+    second: {fileID: 2100000, guid: 1df7a815bbf67ed41bedc1f6c8b4cdda, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert19
+    second: {fileID: 2100000, guid: 1fd749c104a2eb5498819f3e48fa1ca8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert20
+    second: {fileID: 2100000, guid: 87687ae743cd53643b70c3b279c581cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert21
+    second: {fileID: 2100000, guid: 93191738b5d87c643a9cea1e3016df49, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert22
+    second: {fileID: 2100000, guid: 22e647cd6f7efd94e8694dee1f75a234, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert23
+    second: {fileID: 2100000, guid: b237f59dda21ef04ea2520f03737c48d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert24
+    second: {fileID: 2100000, guid: 1029f8b7902f7764d90d5a4049fa0e7a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert26
+    second: {fileID: 2100000, guid: efce657bc1900d9459f17ee6c548094c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert4
+    second: {fileID: 2100000, guid: 1cc33c5a5b5f41e48908a4bd1c2db88e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert5
+    second: {fileID: 2100000, guid: 9919547ff3fb09c44adabba079fd698b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert7
+    second: {fileID: 2100000, guid: e54fa560b41fc22408c2a4836d77e59d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert8
+    second: {fileID: 2100000, guid: b90d843c0ba039245ad8bc883986ebcb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert9
+    second: {fileID: 2100000, guid: ace733620cad3c94bac284f8bfb5c89a, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: "Invalid Avatar Rig Configuration. Missing or invalid transform:\n\tRequired
+      human bone 'LeftUpperLeg' not found\n"
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      internalID: 1827226128182048838
+      firstFrame: 0
+      lastFrame: 300
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: grua roja animacion(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface111
+      parentName: grua roja animacion(Clone)
+      position: {x: 0.26468417, y: -0.00027121647, z: -3.1721847}
+      rotation: {x: 0.00000008181349, y: -0.000000092369525, z: -0.6630374, w: 0.74858624}
+      scale: {x: 1.3231102, y: 1.3231102, z: 1.3231102}
+    - name: polySurface176
+      parentName: grua roja animacion(Clone)
+      position: {x: 0.27370414, y: -0.000501111, z: -4.2391243}
+      rotation: {x: 0.0000005899831, y: -0.00000048319174, z: -0.66262645, w: 0.74895006}
+      scale: {x: 1.3231102, y: 1.3231102, z: 1.3231102}
+    - name: polySurface33
+      parentName: grua roja animacion(Clone)
+      position: {x: 0.49111116, y: 0.02392684, z: -3.7344763}
+      rotation: {x: 0.00000006657903, y: -0, z: -0, w: 1}
+      scale: {x: 1.3231102, y: 1.3231102, z: 1.3231102}
+    - name: polySurface326
+      parentName: polySurface33
+      position: {x: 0.10900444, y: -0.004014096, z: -0.20770541}
+      rotation: {x: 0.00000008018044, y: -0.33630115, z: 0.9417545, w: -0.00000022453177}
+      scale: {x: 1, y: 1.0000002, z: 1.0000002}
+    - name: polySurface325
+      parentName: polySurface33
+      position: {x: -0.13226, y: -0.004014096, z: -0.20770541}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface134
+      parentName: polySurface33
+      position: {x: -0.13226, y: -0.004014096, z: 0.20929928}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface327
+      parentName: polySurface33
+      position: {x: 0.10900444, y: -0.004014096, z: 0.20929928}
+      rotation: {x: 0.000000064577044, y: -0.27085575, z: 0.96261996, w: -0.00000022950648}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: polySurface324
+      parentName: grua roja animacion(Clone)
+      position: {x: 0.66478807, y: -0.000501111, z: -4.2391243}
+      rotation: {x: -0.68245757, y: 0.73092526, z: -0.00000078508253, w: 0.00000091520104}
+      scale: {x: 1.3231102, y: 1.3231102, z: 1.3231102}
+    - name: polySurface323
+      parentName: grua roja animacion(Clone)
+      position: {x: 0.6557681, y: -0.00027121647, z: -3.1686306}
+      rotation: {x: -0.6833664, y: 0.73007566, z: -0.00000010343517, w: 0.00000027920694}
+      scale: {x: 1.3231101, y: 1.3231101, z: 1.3231102}
+    - name: polySurface34
+      parentName: grua roja animacion(Clone)
+      position: {x: 0.46749628, y: 0.23472892, z: -3.7055285}
+      rotation: {x: -0.00000013315805, y: -0.000047875918, z: -4.5560743e-12, w: 1}
+      scale: {x: 1.3231102, y: 1.3231102, z: 1.3231102}
+    - name: Object001
+      parentName: polySurface34
+      position: {x: -0, y: 0.00000014533997, z: -0.000000024223327}
+      rotation: {x: 0.35673591, y: 1.2732926e-10, z: 0.0014352275, w: 0.9342042}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Object002
+      parentName: Object001
+      position: {x: 0.00000009689331, y: -0.00000014533997, z: 0}
+      rotation: {x: -0.00000047683716, y: 3.637979e-12, z: 1.073989e-18, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Object003
+      parentName: Object001
+      position: {x: 0.00010667953, y: 0.07366992, z: 1.1146048}
+      rotation: {x: 0.00000005960459, y: -3.637979e-12, z: 2.1684024e-19, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Object004
+      parentName: Object001
+      position: {x: 0.00032527084, y: 0.03204029, z: -0.08084565}
+      rotation: {x: -0.00000071525574, y: -3.637979e-12, z: -4.4482237e-18, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
